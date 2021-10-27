@@ -1,0 +1,17 @@
+#Box
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+#btn-reset
+{
+    float: right;
+}
+
+.btn:hover
+{
+    background-color: white;
+}
